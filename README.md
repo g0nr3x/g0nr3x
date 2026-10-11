@@ -1,31 +1,26 @@
-<div align="center">
-
 ```text
-               _   ___             __   __
-              | | / _ \           /\ \ /\ \
-   __ _   ___ | |/\// / _ __  _ __\ \ \/  \ \
- /'_`\ \ / __`\ |  / / / '__/\`'__/\ \ / /\ \ \
-/\ \L\ \/\ \L\ \ |/ /_/\ \   \ \ \  / / /  \ \ \
-\ \____ \ \____/_/\____/\ \_\ \ \_\/_/ /    \ \_\
- \/___L\ \/___/  \/____/ \/_/  \/_/ \/_/     \/_/
-  /\____/
-  \_/__/  Native crafts, minimal footprints.
-```
-
-*Building lightweight utilities and crafting visual assets for the Apple ecosystem.*  
-*Chế tác các tiện ích gọn nhẹ và thiết kế đồ hoạ cho hệ sinh thái Apple.*
-
-</div>
-
-```text
-g0nr3x@workspace
-------------------------
-OS:            macOS (Apple Silicon)
-Focus:         Native Utilities & Workflow Automation
-Ecosystem:     macOS Menu Bar Apps, iOS Prototypes
-Design Stack:  Adobe Illustrator, Photoshop, Lightroom
-Code Stack:    Swift, SwiftUI
-Philosophy:    "Form follows function, perfected by craft."
+           ..-:://++*++//:-..             g0nr3x@workspace
+       .:+*#%%%%%%%%%%%%%%%#*+:.          ----------------------------------------------
+     :*#%%%%%#*+===---===+*#%%%%%#*:      OS:             macOS (Apple Silicon)
+   :*%%%%%*-.               .-*%%%%%*:    Host:           MacBook Pro
+  =%%%%#-.       .::---::.     .-#%%%%=   Uptime:         Designing & Engineering daily
+ =%%%%+       .-+*#%%%##*+-.      +%%%%=  Shell:          zsh / swift-cli
+.%%%%*      .+#%%%%@@@@%%%%#+.     *%%%%. Theme:          Tokyo Night / Minimalist
+:%%%%:     :*%%%@@@@@@@@@@%%%*:    :%%%%:
+=%%%%.    .*%%@@@@@@@@@@@@@@%%*.   .%%%%= Core Stack -----------------------------------
+*%%%=     +%%@@@@@@@@@@@@@@@@%%+    =%%%* Languages:      Swift, SwiftUI, Shell
+#%%%:    .%@@@@@@@@@@@@@@@@@@@@%.   :%##% Ecosystem:      macOS Menu Bar Apps, iOS
+#%%%:    .%@@@@@@@@@@@@@@@@@@@@%.   :%##% Design:         Adobe Illustrator, PS, Lr
+*%%%=     +%%@@@@@@@@@@@@@@@@%%+    =%%%* Philosophy:     Form follows function
+=%%%%.    .*%%@@@@@@@@@@@@@@%%*.   .%%%%=
+:%%%%:  .. :*%%%@@@@@@@@@@%%%*: .. :%%%%: Focus & Workflows ----------------------------
+.%%%%*  ==  .+#%%%%@@@@%%%%#+.  == *%%%%. Utilities:      Lightweight menu bar apps
+ =%%%%+ .#*:  .-+*#%%%##*+-.  :*#. +%%%%= Pipeline:       SVG to Native PNG 1-click
+  =%%%%#-.=##*-. .::---::. .-*##=. -#%%%%= Automation:     Self-update, Local tools
+   :*%%%%%*-:*###*+====+*###*:-*%%%%%*:   
+     :*#%%%%%#*+=-------=+*#%%%%%#*:      Status ---------------------------------------
+       .:+*#%%%%%%%%%%%%%%%#*+:.          Building quiet, native tools for Mac.
+           ..-:://++*++//:-..
 ```
 
 ### ✦ The Craft / Góc nhìn & Công việc
@@ -34,11 +29,10 @@ Philosophy:    "Form follows function, perfected by craft."
 <summary><b>English</b></summary>
 <br>
 
-I approach software development through the lens of a visual designer: focusing on the precision of every vector point, pixel alignment, and the responsiveness of native code. 
+I approach software through the lens of a graphic designer: bridging precision vector assets with clean, lightweight native code.
 
-Avoiding unnecessary bloat, I favor the elegance and immediacy of **SwiftUI** to solve everyday workflow friction:
--  **Native Utilities:** Discrete Menu Bar tools running silently in the background (asset converters, SVG-to-PNG pipelines, local updaters).
-- 🎨 **Design & Assets:** Crafting visual systems using Adobe Illustrator & Photoshop, seamlessly bridging vector graphics into production code.
+-  **Native Utilities:** Discrete Menu Bar tools running quietly in the background.
+- 🎨 **Design & Assets:** Crafting vector systems in Adobe Illustrator & Photoshop, mapped seamlessly into SwiftUI code.
 - 📐 **Micro-tools:** Pragmatic software built for real workflows — prioritizing minimalism and zero clutter.
 
 </details>
@@ -47,25 +41,13 @@ Avoiding unnecessary bloat, I favor the elegance and immediacy of **SwiftUI** to
 <summary><b>Tiếng Việt</b></summary>
 <br>
 
-Tôi tiếp cận phần mềm dưới góc nhìn của một người làm thiết kế: bắt đầu từ độ chuẩn xác của từng điểm ảnh, đường vector, cho đến độ mượt mà của mã nguồn native.
+Tôi tiếp cận phần mềm dưới góc nhìn của một người làm thiết kế đồ hoạ: kết hợp tài nguyên vector chuẩn xác với mã nguồn native gọn nhẹ.
 
-Thay vì các framework cồng kềnh, tôi ưu tiên sự tinh gọn và tức thời của **SwiftUI** để giải quyết các thao tác bất tiện hằng ngày:
--  **Tiện ích Native:** Các công cụ Menu Bar nhỏ gọn, chạy ngầm tĩnh lặng (quản lý asset, xử lý SVG sang PNG, kiểm tra cập nhật).
-- 🎨 **Thiết kế Đồ hoạ:** Tự tay tạo dựng tài nguyên từ Adobe Illustrator & Photoshop, đồng bộ mượt mà từ file vector vào mã nguồn.
-- 📐 **Công cụ Tinh gọn:** Phần mềm phục vụ công việc thực tế — ưu tiên sự tối giản, không dư thừa.
+-  **Tiện ích Native:** Các công cụ Menu Bar nhỏ gọn, chạy ngầm tĩnh lặng.
+- 🎨 **Thiết kế Đồ hoạ:** Tự tay tạo dựng tài nguyên từ Adobe Illustrator & Photoshop, đồng bộ mượt mà vào SwiftUI.
+- 📐 **Công cụ Tinh gọn:** Phần mềm giải quyết tác vụ thực tế — ưu tiên sự tối giản, không dư thừa.
 
 </details>
-
----
-
-### ✦ Environment & Tools
-
-```
-[Languages]    Swift · SwiftUI
-[Design]       Adobe Illustrator · Photoshop · Lightroom
-[Ecosystem]    macOS · iOS · AppKit/UIKit
-[Tools]        Xcode · Terminal · Git
-```
 
 ---
 
@@ -74,7 +56,6 @@ Thay vì các framework cồng kềnh, tôi ưu tiên sự tinh gọn và tức 
 <img src="https://github-readme-stats.vercel.app/api?username=g0nr3x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="g0nr3x GitHub Stats" />
 
 <br/>
-<sub><i>Focus on the small things, make them seamless.</i></sub>  
-<sub><i>Tập trung vào những điều nhỏ bé, làm cho nó thật tinh gọn.</i></sub>
+<sub><i>Crafted with care. Focused on the essentials.</i></sub>
 
 </div>
